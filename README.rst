@@ -15,9 +15,9 @@ IE 10+
 Requirements
 ---------------
 
-jQuery
-SCSS/CSS
-BootStrap
+* jQuery
+* SCSS/CSS
+* BootStrap
 
 
 How To Use?
