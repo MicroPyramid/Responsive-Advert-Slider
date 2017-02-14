@@ -33,5 +33,8 @@ How To Use?
 
 * Include slider div with class named "slider_container"(as in demo index.html) in your HTML page. Please take care that elements with class "item_each" and "img_wrap" are same in number.
 
+Visit our Website development and maintenance page `Here`_
+
+.. _Here: https://micropyramid.com/web-development/
 
 
